@@ -98,6 +98,7 @@ DATABASES = {
     }
 }
 
+CSRF_TRUSTED_ORIGINS = ['test-cnpm.onrender.com']
 
 
 # Password validation
