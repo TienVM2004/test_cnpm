@@ -98,7 +98,7 @@ DATABASES = {
     }
 }
 
-CSRF_TRUSTED_ORIGINS = ['test-cnpm.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://test-cnpm.onrender.com']
 
 
 # Password validation
